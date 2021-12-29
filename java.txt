@@ -3,6 +3,7 @@ public class GitDemo
 public static void (String[] args)
 {
 System.out.println("Hi Git");
+System.out.println("updated git");
 }
 
 }
